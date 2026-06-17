@@ -12,7 +12,7 @@ nav:
   - Start: index.md
   - Installation: installation.md
   - Handbuch: handbuch.md
-  - Aenderungen: changelog.md
+  - Änderungen: changelog.md
 copyright: Copyright eh-systemhaus 2026
 markdown_extensions:
   - admonition
